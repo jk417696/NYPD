@@ -1,3 +1,4 @@
+#Monte Cralo, 10.10.2022
 import math
 import random
 
