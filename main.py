@@ -1,3 +1,4 @@
+# Zadanie o osobistosci, 24.10.2022
 def persona(matrix):
     n = len(matrix)
     info = 'Nie ma osobistosci'
